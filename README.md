@@ -27,12 +27,12 @@ Make sure you've got jQuery in your page first.
 
 Add the following piece of code to your `<head>` element, make sure to change the path accordingly.
 ```html
-<link rel="stylesheet" href="[[/path/to/]]ferhat-ripple.css">
+<link rel="stylesheet" href="[[/path/to/]]fyildirim-ripple.css">
 ```
 
 Add the following piece of code all the way at the bottom of your `<body>` element. Make sure it comes after jQuery.
 ```html
-<script src="[[path/to/]]ferhat-ripple.js"></script>
+<script src="[[path/to/]]fyildirim-ripple.js"></script>
 ```
 
 After all files have been included in your page, simply add `class="ripple-fx"` to use it!
